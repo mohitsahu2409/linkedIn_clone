@@ -1,0 +1,29 @@
+
+
+body {
+    color: #40514e;
+    background-color: #C0C0C0;
+    margin: 0;
+    font-family: "Merriweather", serif;
+
+  }
+
+.container {
+    width: 80%; /* Or max-width: 1200px */
+    margin: 0 auto; /* Centers the content */
+  }
+
+.profile-img {
+    height: 100px;
+    border-radius: 50%;
+  }
+
+.bottom-container {
+    background-color: #A0A0A0;
+    padding: 50px 0 20px;
+}
+
+.text-color {
+    color: white !important;
+}
+
